@@ -211,7 +211,7 @@
       "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.6.5/x10-cm11-adapter-0.6.5-linux-arm-v20.tgz",
       "checksum": "02b1b2dbfdb3c48b085d5d6332724dfdca83a64d0497b09e1d11c729cc93fc31",
       "gateway": {
-        "min": "2.0.0",
+        "min": "2.0.0-beta.1",
         "max": "*"
       }
     },
@@ -227,7 +227,7 @@
       "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.6.5/x10-cm11-adapter-0.6.5-linux-arm64-v20.tgz",
       "checksum": "910344c6da7d7846e93c8ab41f90f31b692108ac462270c2899e6109a2803ace",
       "gateway": {
-        "min": "2.0.0",
+        "min": "2.0.0-beta.1",
         "max": "*"
       }
     },
@@ -243,7 +243,7 @@
       "url": "https://github.com/AlanDThiessen/x10-cm11-adapter/releases/download/v0.6.5/x10-cm11-adapter-0.6.5-linux-x64-v20.tgz",
       "checksum": "30b47652931b422f8ef1378b9b227d1a49710b930436c2440a6d271f1ccd3b82",
       "gateway": {
-        "min": "2.0.0",
+        "min": "2.0.0-beta.1",
         "max": "*"
       }
     }
